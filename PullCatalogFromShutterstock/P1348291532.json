@@ -1,0 +1,115 @@
+{
+  "data": {
+    "aspect": 1.5,
+    "categories": [ "12", "25" ],
+    "cdn_image": {
+      "width": 0,
+      "height": 0,
+      "url": "https://image.shutterstock.com/image-photo/phenomenally-calm-day-port-askaig-[SIZE]-1348291532.jpg"
+    },
+    "dependent_upload_legacy_id": null,
+    "description": "Phenomenally calm day at Port Askaig with rough rocks and lichens on the right and short mountains reflecting in the smooth water",
+    "discipled": 1,
+    "display_1500": {
+      "height": 1000,
+      "width": 1500,
+      "url": "https://image.shutterstock.com/z/stock-photo-phenomenally-calm-day-at-port-askaig-with-rough-rocks-and-lichens-on-the-right-and-short-mountains-1348291532.jpg"
+    },
+    "filename": "1348291532.jpg",
+    "has_model_release": null,
+    "has_property_release": null,
+    "id": "P1348291532",
+    "is_editorial": false,
+    "is_illustration": false,
+    "keywords": [ "autumn", "background", "bay", "beach", "beautiful", "blue", "calm", "cloud", "clouds", "coast", "coastline", "colorful", "countryside", "destination", "epic", "europe", "european", "flat", "forest", "green", "island", "kennacraig", "lake", "landscape", "lowlands", "natural", "nature", "ocean", "outdoor", "peaceful", "placid", "reflection", "rock", "rocky", "scenic", "scotland", "scottish", "sea", "seascape", "shore", "sky", "summer", "tourism", "travel", "view", "water" ],
+    "large_thumb": {
+      "width": 150,
+      "height": 100,
+      "url": "https://thumb9.shutterstock.com/thumb_large/3780074/1348291532/stock-photo-phenomenally-calm-day-at-port-askaig-with-rough-rocks-and-lichens-on-the-right-and-short-mountains-1348291532.jpg"
+    },
+    "media_type": "image",
+    "model_release_info": null,
+    "original_filename": "398A6525.jpg",
+    "preview": {
+      "height": 300,
+      "width": 450,
+      "url": "https://image.shutterstock.com/display_pic_with_logo/3780074/1348291532/stock-photo-phenomenally-calm-day-at-port-askaig-with-rough-rocks-and-lichens-on-the-right-and-short-mountains-1348291532.jpg"
+    },
+    "releases": [],
+    "sizes": {
+      "huge_jpg": {
+        "width": 10173,
+        "height": 6782,
+        "dpi": 300,
+        "format": "jpg",
+        "width_cm": "86.1 cm",
+        "height_cm": "57.4 cm",
+        "width_in": "33.9\"",
+        "height_in": "22.6\"",
+        "name": "huge_jpg",
+        "display_name": "Huge",
+        "size_in_bytes": 34453818,
+        "human_readable_size": "32.9 MB"
+      },
+      "huge_tiff": {
+        "width": 10173,
+        "height": 6782,
+        "dpi": 300,
+        "format": "tiff",
+        "width_cm": "86.1 cm",
+        "height_cm": "57.4 cm",
+        "width_in": "33.9\"",
+        "height_in": "22.6\"",
+        "name": "huge_tiff",
+        "display_name": "Huge",
+        "size_in_bytes": 206979858,
+        "human_readable_size": "197.4 MB"
+      },
+      "medium_jpg": {
+        "width": 1000,
+        "height": 667,
+        "dpi": 300,
+        "format": "jpg",
+        "width_cm": "8.5 cm",
+        "height_cm": "5.6 cm",
+        "width_in": "3.3\"",
+        "height_in": "2.2\"",
+        "name": "medium_jpg",
+        "display_name": "Med",
+        "size_in_bytes": 658712,
+        "human_readable_size": "643 KB"
+      },
+      "small_jpg": {
+        "width": 500,
+        "height": 334,
+        "dpi": 300,
+        "format": "jpg",
+        "width_cm": "4.2 cm",
+        "height_cm": "2.8 cm",
+        "width_in": "1.7\"",
+        "height_in": "1.1\"",
+        "name": "small_jpg",
+        "display_name": "Small",
+        "size_in_bytes": 186789,
+        "human_readable_size": "182 KB"
+      }
+    },
+    "small_thumb": {
+      "width": 100,
+      "height": 67,
+      "url": "https://thumb9.shutterstock.com/thumb_small/3780074/1348291532/stock-photo-phenomenally-calm-day-at-port-askaig-with-rough-rocks-and-lichens-on-the-right-and-short-mountains-1348291532.jpg"
+    },
+    "status": "approved",
+    "submitter_note": "",
+    "upload_id": 1514899775,
+    "upload_legacy_id": 1577328602,
+    "uploaded_date": "2019-03-25",
+    "channels": [ "shutterstock" ],
+    "vector_extension": null,
+    "legacy_id": 1577328602,
+    "thumbnail_url": "//image.shutterstock.com/image-photo/phenomenally-calm-day-port-askaig-250nw-1348291532.jpg",
+    "thumbnail_url_480": "https://cdn.shutterstock.com/shutterstock/pending_photos/1577328602/thumb_480x270.jpg",
+    "is_adult": false,
+    "contributor_id": 3780074
+  }
+}
